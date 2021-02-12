@@ -4,7 +4,7 @@ This core builds for learning the UART communication and AXI interface. The targ
 ## The folder are consists of 
 - src : The whole VHDL src 
 - sdk : The example C project correspond with the core
-- bd : The tcl script for create block design with vivado
+- bd : The tcl script for create block design with vivado 2018.2 
 
 ## The VHDL code are list here: 
 - axi_uart_top.vhd : the highest file here consist of AXI interface and the serial i/o. 
