@@ -5,6 +5,7 @@ This core builds for learning the UART communication and AXI interface. The targ
 - src : The whole VHDL src 
 - sdk : The example C project correspond with the core
 - bd : The tcl script for create block design with vivado 2018.2 
+- simulation : verilog simulation source file with zynq platform 
 
 ## The VHDL code are list here: 
 - axi_uart_top.vhd : the highest file here consist of AXI interface and the serial i/o. 
